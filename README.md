@@ -1,4 +1,4 @@
-#Streamy 
+***Streamy*** 
 Video Streaming Platform
 
 Built with :
@@ -9,7 +9,7 @@ OBS (https://obsproject.com/)
 Flv.js
 React Redux Router
 Getting Started with the platform:
-1- Clone the the project (https://github.com/ahmedalaahagag/twitch-clone)
+1- Clone the the project 
 
 2- On the the project's 3 Directories (api - rtmpserver - client) run npm start
 
@@ -46,14 +46,3 @@ Stream Key : `1` (Represents the stream id from the application URL ex: http://l
 
 9- Start streaming.
 
-Disclaimer
-This project was made for fun copy it on your own risk and have fun ;)
-
-License
-Copyright 2019 ahmedalaahagag
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.

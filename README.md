@@ -1,7 +1,7 @@
-***Streamy*** 
+# Streamy 
 Video Streaming Platform
 
-Built with :
+## Built with :
 React
 Redux
 React Forms
@@ -22,7 +22,7 @@ Getting Started with the platform:
 
 4- Start viewing other streamers.
 
-Getting started with streaming:
+## Getting started with streaming:
 1- Install OBS using the instrucations on the website
 
 2- Open OBS
